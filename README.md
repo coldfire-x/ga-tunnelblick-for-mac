@@ -6,7 +6,7 @@
 
 ## how to use
 
-add your authenticate information at run.py, there are there vars should be
+add your authenticate information in `run.py`, there are three vars should be
 set before use:
 
 	* FIXED_PASSWD = ''  # fixed password if given
